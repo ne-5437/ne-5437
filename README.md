@@ -1,33 +1,84 @@
-<h1 align="center">Hi 👋, I'm Eshwar</h1>
-<h3 align="center">A Student and Graphic Designer from India</h3>
+# 👋 Welcome to My GitHub!
+
+I'm a **problem-solver** at heart, blending core electronics and software development to push the boundaries of innovation. My work spans exciting projects and creative pursuits, showcasing my passion for interdisciplinary technology.  
+
+🚀 **Exploring:**  
+- The intersection of **AI, ML**, and cutting-edge hardware technologies like **NPUs** and GPU-accelerated systems.  
+- Innovative solutions for embedded systems, digital design, and real-time processing.  
+
+---
+
+## 💡 Notable Projects  
+
+### 🥔 **Potato Leaf Classification**  
+Developed a scalable ML-based image classification system using **TensorFlow**, hosted via **FastAPI**, and deployed on **GCP** with a **React.js** interface.  
+
+### 🏎️ **Formula 1 Data Analysis**  
+Analyzed race strategies and visualized performance insights using **FastF1**, **Pandas**, and **Plotly** in an interactive dashboard powered by **Dash** and deployed via **Docker**.  
+
+### 🖼️ **Sobel Edge Detection on FPGA**  
+Designed a high-performance edge detection system using **MATLAB** preprocessing and **Verilog** on ZedBoard, integrating AXI interfaces, DMA controllers, and optimized IP packaging.  
+
+### ⏲️ **RTOS Scheduler Design**  
+Built a preemptive task scheduler on STM Nucleo-64 using semaphores and time quantas, ensuring efficient multitasking in embedded systems.  
+
+---
+
+## 🔧 Skills & Tools  
+
+### **Programming Languages**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-EB2F2F?style=for-the-badge" />
+</p>
+
+### **Frameworks & Platforms**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### **Development Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-F1C40F?style=for-the-badge&logo=xilinx&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### **Design & Graphics**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Creative Pursuits  
+
+- Designed posters, banners, and coordinated the logo and logo launch animation for **Acumen Fest 2024**.  
+- Served as **Head of Arts & Design** in **Swayam Ed Cell**, leading creative initiatives and designs.  
+- Coordinated the **Valotopia Gaming Tournament** during Acumen Fest.  
+- Former Graphic Designer for *Newton's Apple* (ECE College Magazine) and Google Developer Student Club.  
+- Previously part of college **writing and photography clubs**, contributing to creative storytelling.  
+
+---
+
+## 🎮 Hobbies & Interests  
+
+- Video gaming (racing & open-world RPGs).  
+- Formula 1 analysis and strategy.  
+- Manga and anime enthusiast.  
+
+---
+
+Thank you for visiting! Feel free to explore my projects and connect with me for collaboration or insights!  
+🌟 **Let’s innovate together!** 🌟  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ne-5437&label=Profile%20views&color=0e75b6&style=flat" alt="ne-5437" /> </p>
 
-- 🔭 I’m currently working on **Edge Detection on FPGA**
-
-- 🌱 I’m currently learning **ARM Architecture**
-
-- 💬 Ask me about **C, C++, Data Structures**
-
-- 📫 How to reach me **eshwarnagavenkat@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EUOufCKGkfPLMGDFlSWs1_2dv-neInn-/view?usp=sharing](https://drive.google.com/file/d/1EUOufCKGkfPLMGDFlSWs1_2dv-neInn-/view?usp=sharing)
-
-- ⚡ Fun fact **I play Genshin Impact and watch Formula 1**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ne5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ne5437" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eshwargottupalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshwargottupalli" height="30" width="40" /></a>
-<a href="https://instagram.com/ne_5437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ne_5437" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eshwarnagavenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshwarnagavenkat" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ne-5437&show_icons=true&locale=en&layout=compact" alt="ne-5437" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ne-5437&show_icons=true&locale=en" alt="ne-5437" /></p>

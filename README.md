@@ -4,7 +4,8 @@ I'm a **problem-solver** at heart, blending core electronics and software develo
 
 🚀 **Exploring:**  
 - The intersection of **AI, ML**, and cutting-edge hardware technologies like **NPUs** and GPU-accelerated systems.  
-- Innovative solutions for embedded systems, digital design, and real-time processing.  
+- Innovative solutions for embedded systems, digital design, and real-time processing.
+- **Internship at ISRO**: Contributed to LDPC encoding and decoding using belief propagation methods.
 
 ---
 
@@ -91,11 +92,12 @@ Built a preemptive task scheduler on STM Nucleo-64 using semaphores and time qua
 
 ## 🎨 Creative Pursuits  
 
-- Designed posters, banners, and coordinated the logo and logo launch animation for **Acumen Fest 2024**.  
-- Served as **Head of Arts & Design** in **Swayam Ed Cell**, leading creative initiatives and designs.  
-- Coordinated the **Valotopia Gaming Tournament** during Acumen Fest.  
-- Former Graphic Designer for *Newton's Apple* (ECE College Magazine) and Google Developer Student Club.  
-- Previously part of college **writing and photography clubs**, contributing to creative storytelling.  
+- Designed logo and logo launch animation for **Acumen Fest 2024** & contributed posters, banners designs.
+- Served as **Head of Arts & Design** in **Swayam Ed Cell** (VCE), leading creative initiatives and designs.  
+- Coordinated the **Valotopia Gaming Tournament** during Acumen Fest 2024.  
+- Graphic Designer for *Newton's Apple* (ECE College Magazine)
+- Coordinator in design department for Google Developer Student Club.  
+- Part of college **writing and photography clubs**, contributing to creative storytelling.  
 
 ---
 

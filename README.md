@@ -110,5 +110,7 @@ Built a preemptive task scheduler on STM Nucleo-64 using semaphores and time qua
 Thank you for visiting! Feel free to explore my projects and connect with me for collaboration or insights!  
 🌟 **Let’s innovate together!** 🌟  
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ne-5437&label=Profile%20views&color=0e75b6&style=flat" alt="ne-5437" /> </p>
 

@@ -1,6 +1,18 @@
 # 👋 Welcome to My GitHub!
 
-I'm a **problem-solver** at heart, blending core electronics and software development to push the boundaries of innovation. My work spans exciting projects and creative pursuits, showcasing my passion for interdisciplinary technology.  
+name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
+
 
 🚀 **Exploring:**  
 - The intersection of **AI, ML**, and cutting-edge hardware technologies like **NPUs** and GPU-accelerated systems.  
